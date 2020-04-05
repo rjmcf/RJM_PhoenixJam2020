@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "It begins"
+date:   2020-04-05 13:00:00 +0100
+categories: start
+---
+In these trying times I think it's important to find something to do, something to keep you occupied. I'm still working from home, but the evenings and weekends can easily get exhausting if you're just sat around doing nothing. So I decided to join a game jam!
+
+It was actually my Mum who forwarded me the email that started me off on this. Phoenix in Leicester, my hometown, are running the [Isolation Jam](https://itch.io/jam/isolation-jam), and emailed out to all members about it. My Mum is a member, and forwarded it on to me. On the jam page, Phoenix describe themselves as "Leicester’s centre for independent cinema, art and digital culture". I was surprised to see them hosting a game jam, but also excited: if anyone's going to appreciate something a little abstract and weird, it will be them!
+
+I've decided to go with the theme of **Isolation** for this game, because it fits with an idea for a game that I first had at university. Then, I got as far as making a little prototype, just enough to prove to myself that the idea had legs. This time I hope to end up with something that I'd be happy to show other people!
